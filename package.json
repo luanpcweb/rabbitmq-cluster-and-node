@@ -1,0 +1,12 @@
+{
+  "name": "test-project",
+  "version": "0.0.1",
+  "description": "A rabbitMQ project",
+  "private": true,
+  "scripts": {
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
